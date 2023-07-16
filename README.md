@@ -1,5 +1,4 @@
 📫 CONNECT: 
 
-telegram: @dvikhoreva
-
+telegram: @wontfind
 mail: vikhorevadv@gmail.com
