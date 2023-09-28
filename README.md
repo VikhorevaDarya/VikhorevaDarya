@@ -1,4 +1,4 @@
-📫 CONNECT: 
+### 🔗 CONNECT:
 
-telegram: @wontfind
-mail: vikhorevadv@gmail.com
+## telegram: @wontfind - preferred
+## mail: vikhorevadv@gmail.com
