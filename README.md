@@ -1,4 +1,4 @@
 ###  CONNECT:
 
 - telegram: @wontfind - preferred
-- mail: vikhorevadv@gmail.com
+- mail: darya.vikhoreva.wrk@mail.ru
