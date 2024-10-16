@@ -1,4 +1,4 @@
 ###  CONNECT:
 
-- telegram: @cloakedev - preferred
+- telegram: @visibilityhidden - preferred
 - mail: vikhorevadv@gmail.com
